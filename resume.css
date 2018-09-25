@@ -3,17 +3,19 @@ body {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	background-color: lightyellow;
+	font-family: georgia;
 }
 
 p{
 	font-size: 18px;
+	font-family: georgia;
 	margin-left: 8%;
 	margin-right: 8%;
-
 }
 h1{
 	text-align: center;
 	font-size: 40px;
+	font-family: georgia;
 	border-style: dotted;
 	border-color: lightgray;
 	margin-left: 8%;
@@ -23,6 +25,7 @@ h1{
 h2{
 	text-align: left;
 	font-size: 32px;
+	font-family: georgia;
 	text-decoration: underline;
 	margin-left: 8%;
 	margin-right: 8%;
@@ -31,6 +34,7 @@ h2{
 .company{
 	text-align: left;
 	font-size: 24px;
+	font-family: georgia;
 	font-weight: bold;
 	margin-left: 8%;
 	margin-right: 8%;
@@ -39,6 +43,7 @@ h2{
 .title{
 	text-align: left;
 	font-size: 20px;
+	font-family: georgia;
 	font-style: italic;
 	margin-left: 8%;
 	margin-right: 8%;
@@ -46,6 +51,7 @@ h2{
 li{
 	text-align: left;
 	font-size: 18px;
+	font-family: georgia;
 	margin-left: 8%;
 	margin-right: 8%;
 }
