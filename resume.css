@@ -7,8 +7,8 @@ body {
 
 p{
 	font-size: 18px;
-	margin-left: 5%;
-	margin-right: 5%;
+	margin-left: 8%;
+	margin-right: 8%;
 
 }
 h1{
@@ -16,31 +16,36 @@ h1{
 	font-size: 40px;
 	border-style: dotted;
 	border-color: lightgray;
-	margin-left: 5%;
-	margin-right: 5%;
+	margin-left: 8%;
+	margin-right: 8%;
 }
 
 h2{
 	text-align: left;
 	font-size: 32px;
 	text-decoration: underline;
-	margin-left: 5%;
-	margin-right: 5%;
+	margin-left: 8%;
+	margin-right: 8%;
 }
 
 .company{
 	text-align: left;
 	font-size: 24px;
 	font-weight: bold;
-	margin-left: 5%;
-	margin-right: 5%;
+	margin-left: 8%;
+	margin-right: 8%;
 }
 
 .title{
 	text-align: left;
 	font-size: 20px;
 	font-style: italic;
-	margin-left: 5%;
-	margin-right: 5%;
-
+	margin-left: 8%;
+	margin-right: 8%;
+}
+li{
+	text-align: left;
+	font-size: 18px;
+	margin-left: 8%;
+	margin-right: 8%;
 }
